@@ -114,7 +114,7 @@ header {
 }
 
 .hero__main {
-	max-width: 60%;
+	max-width: 100%;
 }
 
 .hero__title {
@@ -311,6 +311,10 @@ header {
 
 /* MEDIA QUERY */
 @media screen and (min-width: 500px) {
+	.hero__main {
+		max-width: 80%;
+	}
+
 	.popular__cards {
 		flex-direction: row;
 		flex-wrap: wrap;
@@ -334,6 +338,10 @@ header {
 
 	.hero {
 		height: 70vh;
+	}
+
+	.hero__main {
+		max-width: 60%;
 	}
 
 	.section-title {
