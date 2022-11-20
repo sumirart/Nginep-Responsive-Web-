@@ -10,7 +10,7 @@ Responsive landing page website for vacation homes and condo rentals.
 
 ### Live version:
 
-[Nginep](https://netlify.app/)
+[Nginep](https://statuesque-muffin-a11a8d.netlify.app/)
 
 ### Screenshot:
 
