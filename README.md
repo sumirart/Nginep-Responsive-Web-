@@ -10,7 +10,7 @@ Responsive landing page website for vacation homes and condo rentals.
 
 ### Live version:
 
-[Nginep](https://happy-leavitt-1b9517.netlify.app/)
+[Nginep](https://netlify.app/)
 
 ### Screenshot:
 
